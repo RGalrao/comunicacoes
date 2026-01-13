@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Proxima Nova ExCn Regular';
+    src: url('ProximaNovaExCn-Regular.eot');
+    src: url('ProximaNovaExCn-Regular.eot?#iefix') format('embedded-opentype'),
+        url('ProximaNovaExCn-Regular.woff2') format('woff2'),
+        url('ProximaNovaExCn-Regular.woff') format('woff'),
+        url('ProximaNovaExCn-Regular.ttf') format('truetype'),
+        url('ProximaNovaExCn-Regular.svg#ProximaNovaExCn-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova ExCn Semibold';
+    src: url('ProximaNovaExCn-Semibold.eot');
+    src: url('ProximaNovaExCn-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('ProximaNovaExCn-Semibold.woff2') format('woff2'),
+        url('ProximaNovaExCn-Semibold.woff') format('woff'),
+        url('ProximaNovaExCn-Semibold.ttf') format('truetype'),
+        url('ProximaNovaExCn-Semibold.svg#ProximaNovaExCn-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Proxima Nova ExCn Bold';
+    src: url('ProximaNovaExCn-Bold.eot');
+    src: url('ProximaNovaExCn-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ProximaNovaExCn-Bold.woff2') format('woff2'),
+        url('ProximaNovaExCn-Bold.woff') format('woff'),
+        url('ProximaNovaExCn-Bold.ttf') format('truetype'),
+        url('ProximaNovaExCn-Bold.svg#ProximaNovaExCn-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
